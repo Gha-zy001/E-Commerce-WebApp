@@ -1,0 +1,57 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"e-commerce"},
+{"type":"table","name":"cart","database":"e-commerce","data":
+[
+{"cart_id":"56","user_id":"1","item_id":"13"},
+{"cart_id":"57","user_id":"1","item_id":"5"},
+{"cart_id":"60","user_id":"1","item_id":"10"}
+]
+}
+,{"type":"table","name":"product","database":"e-commerce","data":
+[
+{"item_id":"1","item_brand":"Samsung","item_name":"Samsung Galaxy 10","item_price":"152.00","item_image":".\/assets\/products\/1.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"2","item_brand":"Redmi","item_name":"Redmi Note 7","item_price":"122.00","item_image":".\/assets\/products\/2.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"3","item_brand":"Redmi","item_name":"Redmi Note 6","item_price":"122.00","item_image":".\/assets\/products\/3.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"4","item_brand":"Redmi","item_name":"Redmi Note 5","item_price":"122.00","item_image":".\/assets\/products\/4.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"5","item_brand":"Redmi","item_name":"Redmi Note 4","item_price":"122.00","item_image":".\/assets\/products\/5.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"6","item_brand":"Redmi","item_name":"Redmi Note 8","item_price":"122.00","item_image":".\/assets\/products\/6.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"7","item_brand":"Redmi","item_name":"Redmi Note 9","item_price":"122.00","item_image":".\/assets\/products\/8.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"8","item_brand":"Redmi","item_name":"Redmi Note","item_price":"122.00","item_image":".\/assets\/products\/10.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"9","item_brand":"Samsung","item_name":"Samsung Galaxy S6","item_price":"152.00","item_image":".\/assets\/products\/11.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"10","item_brand":"Samsung","item_name":"Samsung Galaxy S7","item_price":"152.00","item_image":".\/assets\/products\/12.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"11","item_brand":"Apple","item_name":"Apple iPhone 5","item_price":"152.00","item_image":".\/assets\/products\/13.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"12","item_brand":"Apple","item_name":"Apple iPhone 6","item_price":"152.00","item_image":".\/assets\/products\/14.png","item_register":"2020-03-28 11:08:57"},
+{"item_id":"13","item_brand":"Apple","item_name":"Apple iPhone 7","item_price":"152.00","item_image":".\/assets\/products\/15.png","item_register":"2020-03-28 11:08:57"}
+]
+}
+,{"type":"table","name":"user","database":"e-commerce","data":
+[
+{"user_id":"1","first_name":"Daily","last_name":"Tuition","register_date":"2020-03-28 13:07:17"},
+{"user_id":"2","first_name":"Akshay","last_name":"Kashyap","register_date":"2020-03-28 13:07:17"}
+]
+}
+,{"type":"table","name":"wishlist","database":"e-commerce","data":
+[
+{"cart_id":"1","user_id":"1","item_id":"4"},
+{"cart_id":"27","user_id":"1","item_id":"1"},
+{"cart_id":"28","user_id":"1","item_id":"9"},
+{"cart_id":"29","user_id":"1","item_id":"7"},
+{"cart_id":"30","user_id":"1","item_id":"12"},
+{"cart_id":"31","user_id":"1","item_id":"8"},
+{"cart_id":"32","user_id":"1","item_id":"8"},
+{"cart_id":"33","user_id":"1","item_id":"7"},
+{"cart_id":"34","user_id":"1","item_id":"6"},
+{"cart_id":"35","user_id":"1","item_id":"6"},
+{"cart_id":"36","user_id":"1","item_id":"13"},
+{"cart_id":"37","user_id":"1","item_id":"9"},
+{"cart_id":"38","user_id":"1","item_id":"3"},
+{"cart_id":"39","user_id":"1","item_id":"6"},
+{"cart_id":"40","user_id":"1","item_id":"1"},
+{"cart_id":"41","user_id":"1","item_id":"5"},
+{"cart_id":"42","user_id":"1","item_id":"10"},
+{"cart_id":"43","user_id":"1","item_id":"2"},
+{"cart_id":"44","user_id":"1","item_id":"6"}
+]
+}
+]
